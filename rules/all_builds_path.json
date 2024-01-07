@@ -1,0 +1,394 @@
+[
+    {
+        "region": "AMER",
+        "site_id": "[01234]",
+        "site_name": "California",
+        "type": "GENERAL",
+        "env": "UAT",
+        "build_key": "AMER_[01234]_CALIFORNIA_GENERAL_UAT"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[01234]",
+        "site_name": "California",
+        "type": "GENERAL",
+        "env": "PRD",
+        "build_key": "AMER_[01234]_CALIFORNIA_GENERAL_PRD"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[01234]",
+        "site_name": "California",
+        "type": "USERDATA",
+        "env": "UAT",
+        "build_key": "AMER_[01234]_CALIFORNIA_USERDATA_UAT"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[01234]",
+        "site_name": "California",
+        "type": "USERDATA",
+        "env": "PRD",
+        "build_key": "AMER_[01234]_CALIFORNIA_USERDATA_PRD"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[21340]",
+        "site_name": "Michigan",
+        "type": "VAULT",
+        "env": "PRD",
+        "build_key": "AMER_[21340]_MICHIGAN_VAULT_PRD"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[51426]",
+        "site_name": "Maine",
+        "type": "GENERAL",
+        "env": "DEV",
+        "build_key": "AMER_[51426]_MAINE_GENERAL_DEV"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[51426]",
+        "site_name": "Maine",
+        "type": "GENERAL",
+        "env": "UAT",
+        "build_key": "AMER_[51426]_MAINE_GENERAL_UAT"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[51426]",
+        "site_name": "Maine",
+        "type": "GENERAL",
+        "env": "PRD",
+        "build_key": "AMER_[51426]_MAINE_GENERAL_PRD"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[51426]",
+        "site_name": "Maine",
+        "type": "USERDATA",
+        "env": "DEV",
+        "build_key": "AMER_[51426]_MAINE_USERDATA_DEV"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[51426]",
+        "site_name": "Maine",
+        "type": "USERDATA",
+        "env": "UAT",
+        "build_key": "AMER_[51426]_MAINE_USERDATA_UAT"
+    },
+    {
+        "region": "AMER",
+        "site_id": "[51426]",
+        "site_name": "Maine",
+        "type": "USERDATA",
+        "env": "PRD",
+        "build_key": "AMER_[51426]_MAINE_USERDATA_PRD"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[443322]",
+        "site_name": "United-Kingdom",
+        "type": "GENERAL",
+        "env": "DEV",
+        "build_key": "EMEA_[443322]_UNITED-KINGDOM_GENERAL_DEV"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[443322]",
+        "site_name": "United-Kingdom",
+        "type": "GENERAL",
+        "env": "UAT",
+        "build_key": "EMEA_[443322]_UNITED-KINGDOM_GENERAL_UAT"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[443322]",
+        "site_name": "United-Kingdom",
+        "type": "GENERAL",
+        "env": "PRD",
+        "build_key": "EMEA_[443322]_UNITED-KINGDOM_GENERAL_PRD"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[443322]",
+        "site_name": "United-Kingdom",
+        "type": "USERDATA",
+        "env": "DEV",
+        "build_key": "EMEA_[443322]_UNITED-KINGDOM_USERDATA_DEV"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[443322]",
+        "site_name": "United-Kingdom",
+        "type": "USERDATA",
+        "env": "UAT",
+        "build_key": "EMEA_[443322]_UNITED-KINGDOM_USERDATA_UAT"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[443322]",
+        "site_name": "United-Kingdom",
+        "type": "USERDATA",
+        "env": "PRD",
+        "build_key": "EMEA_[443322]_UNITED-KINGDOM_USERDATA_PRD"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[443322]",
+        "site_name": "United-Kingdom",
+        "type": "DUMP",
+        "env": "DEV",
+        "build_key": "EMEA_[443322]_UNITED-KINGDOM_DUMP_DEV"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[443322]",
+        "site_name": "United-Kingdom",
+        "type": "DUMP",
+        "env": "UAT",
+        "build_key": "EMEA_[443322]_UNITED-KINGDOM_DUMP_UAT"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[443322]",
+        "site_name": "United-Kingdom",
+        "type": "DUMP",
+        "env": "PRD",
+        "build_key": "EMEA_[443322]_UNITED-KINGDOM_DUMP_PRD"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[332211]",
+        "site_name": "Italy",
+        "type": "VAULT",
+        "env": "PRD",
+        "build_key": "EMEA_[332211]_ITALY_VAULT_PRD"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[221100]",
+        "site_name": "South-Africa",
+        "type": "GENERAL",
+        "env": "DEV",
+        "build_key": "EMEA_[221100]_SOUTH-AFRICA_GENERAL_DEV"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[221100]",
+        "site_name": "South-Africa",
+        "type": "GENERAL",
+        "env": "UAT",
+        "build_key": "EMEA_[221100]_SOUTH-AFRICA_GENERAL_UAT"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[221100]",
+        "site_name": "South-Africa",
+        "type": "GENERAL",
+        "env": "PRD",
+        "build_key": "EMEA_[221100]_SOUTH-AFRICA_GENERAL_PRD"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[221100]",
+        "site_name": "South-Africa",
+        "type": "USERDATA",
+        "env": "DEV",
+        "build_key": "EMEA_[221100]_SOUTH-AFRICA_USERDATA_DEV"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[221100]",
+        "site_name": "South-Africa",
+        "type": "USERDATA",
+        "env": "UAT",
+        "build_key": "EMEA_[221100]_SOUTH-AFRICA_USERDATA_UAT"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[221100]",
+        "site_name": "South-Africa",
+        "type": "USERDATA",
+        "env": "PRD",
+        "build_key": "EMEA_[221100]_SOUTH-AFRICA_USERDATA_PRD"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[221100]",
+        "site_name": "South-Africa",
+        "type": "DUMP",
+        "env": "DEV",
+        "build_key": "EMEA_[221100]_SOUTH-AFRICA_DUMP_DEV"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[221100]",
+        "site_name": "South-Africa",
+        "type": "DUMP",
+        "env": "UAT",
+        "build_key": "EMEA_[221100]_SOUTH-AFRICA_DUMP_UAT"
+    },
+    {
+        "region": "EMEA",
+        "site_id": "[221100]",
+        "site_name": "South-Africa",
+        "type": "DUMP",
+        "env": "PRD",
+        "build_key": "EMEA_[221100]_SOUTH-AFRICA_DUMP_PRD"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[89891]",
+        "site_name": "India",
+        "type": "GENERAL",
+        "env": "DEV",
+        "build_key": "APAC_[89891]_INDIA_GENERAL_DEV"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[89891]",
+        "site_name": "India",
+        "type": "GENERAL",
+        "env": "UAT",
+        "build_key": "APAC_[89891]_INDIA_GENERAL_UAT"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[89891]",
+        "site_name": "India",
+        "type": "GENERAL",
+        "env": "PRD",
+        "build_key": "APAC_[89891]_INDIA_GENERAL_PRD"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[89891]",
+        "site_name": "India",
+        "type": "USERDATA",
+        "env": "DEV",
+        "build_key": "APAC_[89891]_INDIA_USERDATA_DEV"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[89891]",
+        "site_name": "India",
+        "type": "USERDATA",
+        "env": "UAT",
+        "build_key": "APAC_[89891]_INDIA_USERDATA_UAT"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[89891]",
+        "site_name": "India",
+        "type": "USERDATA",
+        "env": "PRD",
+        "build_key": "APAC_[89891]_INDIA_USERDATA_PRD"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[89891]",
+        "site_name": "India",
+        "type": "DUMP",
+        "env": "DEV",
+        "build_key": "APAC_[89891]_INDIA_DUMP_DEV"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[89891]",
+        "site_name": "India",
+        "type": "DUMP",
+        "env": "UAT",
+        "build_key": "APAC_[89891]_INDIA_DUMP_UAT"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[89891]",
+        "site_name": "India",
+        "type": "DUMP",
+        "env": "PRD",
+        "build_key": "APAC_[89891]_INDIA_DUMP_PRD"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[98764]",
+        "site_name": "Hong-Kong",
+        "type": "VAULT",
+        "env": "PRD",
+        "build_key": "APAC_[98764]_HONG-KONG_VAULT_PRD"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[00011]",
+        "site_name": "Australia",
+        "type": "GENERAL",
+        "env": "DEV",
+        "build_key": "APAC_[00011]_AUSTRALIA_GENERAL_DEV"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[00011]",
+        "site_name": "Australia",
+        "type": "GENERAL",
+        "env": "UAT",
+        "build_key": "APAC_[00011]_AUSTRALIA_GENERAL_UAT"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[00011]",
+        "site_name": "Australia",
+        "type": "GENERAL",
+        "env": "PRD",
+        "build_key": "APAC_[00011]_AUSTRALIA_GENERAL_PRD"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[00011]",
+        "site_name": "Australia",
+        "type": "USERDATA",
+        "env": "DEV",
+        "build_key": "APAC_[00011]_AUSTRALIA_USERDATA_DEV"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[00011]",
+        "site_name": "Australia",
+        "type": "USERDATA",
+        "env": "UAT",
+        "build_key": "APAC_[00011]_AUSTRALIA_USERDATA_UAT"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[00011]",
+        "site_name": "Australia",
+        "type": "USERDATA",
+        "env": "PRD",
+        "build_key": "APAC_[00011]_AUSTRALIA_USERDATA_PRD"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[00011]",
+        "site_name": "Australia",
+        "type": "DUMP",
+        "env": "DEV",
+        "build_key": "APAC_[00011]_AUSTRALIA_DUMP_DEV"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[00011]",
+        "site_name": "Australia",
+        "type": "DUMP",
+        "env": "UAT",
+        "build_key": "APAC_[00011]_AUSTRALIA_DUMP_UAT"
+    },
+    {
+        "region": "APAC",
+        "site_id": "[00011]",
+        "site_name": "Australia",
+        "type": "DUMP",
+        "env": "PRD",
+        "build_key": "APAC_[00011]_AUSTRALIA_DUMP_PRD"
+    }
+]

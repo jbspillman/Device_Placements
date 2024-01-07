@@ -1,0 +1,86 @@
+{
+    "AMER": {
+        "SITES": {
+            "[01234] California": {
+                "ENVS": ["UAT", "PRD"],
+                "PATTERNS": ["GENERAL", "USERDATA"],
+                "DNS": ["104.238.212.185", "98.100.136.231", "50.223.52.23"],
+                "LDAP": ["ldap.us-west01.fake.net", "ldap.us-mid01.fake.net", "ldap.us-east01.fake.net"],
+                "NTP": ["ntp.amer01.fake.net", "ntp.emea01.fake.net", "ntp.apac01.fake.net"],
+                "AD": ["AMER.FUN.DOMAIN.com"]
+            },
+            "[21340] Michigan": {
+                "ENVS": ["PRD"],
+                "PATTERNS": ["VAULT"],
+                "DNS": ["104.238.212.185", "98.100.136.231", "50.223.52.23"],
+                "LDAP": ["ldap.us-west01.fake.net", "ldap.us-mid01.fake.net", "ldap.us-east01.fake.net"],
+                "NTP": ["ntp.amer01.fake.net", "ntp.emea01.fake.net", "ntp.apac01.fake.net"],
+                "AD": ["AMER.FUN.DOMAIN.com"]
+            },
+            "[51426] Maine": {
+                "ENVS": ["DEV", "UAT", "PRD"],
+                "PATTERNS": ["GENERAL", "USERDATA"],
+                "DNS": ["104.238.212.185", "98.100.136.231", "50.223.52.23"],
+                "LDAP": ["ldap.us-west01.fake.net", "ldap.us-mid01.fake.net", "ldap.us-east01.fake.net"],
+                "NTP": ["ntp.amer01.fake.net", "ntp.emea01.fake.net", "ntp.apac01.fake.net"],
+                "AD": ["AMER.FUN.DOMAIN.com"]
+            }
+        }
+    },
+    "EMEA": {
+        "SITES": {
+            "[443322] United Kingdom": {
+                "ENVS": ["DEV", "UAT", "PRD"],
+                "PATTERNS": ["GENERAL", "USERDATA", "DUMP"],
+                "DNS": ["192.221.154.0", "82.112.205.222", "102.215.130.162"],
+                "LDAP": ["ldap.em01.fake.net", "ldap.em02.fake.net", "ldap.it01.fake.net", "ldp.it02.fake.net"],
+                "NTP": ["ntp.emea01.fake.net", "ntp.apac01.fake.net", "ntp.amer01.fake.net"],
+                "AD": ["EMEA.FUN.DOMAIN.com"]
+            },
+            "[332211] Italy": {
+                "ENVS": ["PRD"],
+                "PATTERNS": ["VAULT"],
+                "DNS": ["192.221.154.0", "82.112.205.222", "102.215.130.162"],
+                "LDAP": ["ldap.em01.fake.net", "ldap.em02.fake.net", "ldap.it01.fake.net", "ldp.it02.fake.net"],
+                "NTP": ["ntp.emea01.fake.net", "ntp.apac01.fake.net", "ntp.amer01.fake.net"],
+                "AD": ["EMEA.FUN.DOMAIN.com"]
+            },
+            "[221100] South Africa": {
+                "ENVS": ["DEV", "UAT", "PRD"],
+                "PATTERNS": ["GENERAL", "USERDATA", "DUMP"],
+                "DNS": ["192.221.154.0", "82.112.205.222", "102.215.130.162"],
+                "LDAP": ["ldap.em01.fake.net", "ldap.em02.fake.net", "ldap.it01.fake.net", "ldp.it02.fake.net"],
+                "NTP": ["ntp.emea01.fake.net", "ntp.apac01.fake.net", "ntp.amer01.fake.net"],
+                "AD": ["EMEA.FUN.DOMAIN.com"]
+            }
+        }
+    },
+    "APAC": {
+        "SITES": {
+            "[89891] India": {
+                "ENVS": ["DEV", "UAT", "PRD"],
+                "PATTERNS": ["GENERAL", "USERDATA", "DUMP"],
+                "DNS": ["14.192.0.139", "209.146.104.69", "13.239.88.95"],
+                "LDAP": ["ldap.in01.fake.net", "ldap.in02.fake.net", "ldap.hk01.fake.net", "ldap.hk02.fake.net"],
+                "NTP": ["ntp.apac01.fake.net", "ntp.emea01.fake.net", "ntp.emea01.fake.net"],
+                "AD": ["APAC.FUN.DOMAIN.com"]
+            },
+            "[98764] Hong Kong": {
+                "ENVS": ["PRD"],
+                "PATTERNS": ["VAULT"],
+                "DNS": ["14.192.0.139", "209.146.104.69", "13.239.88.95"],
+                "LDAP": ["ldap.in01.fake.net", "ldap.in02.fake.net", "ldap.hk01.fake.net", "ldap.hk02.fake.net"],
+                "NTP": ["ntp.apac01.fake.net", "ntp.emea01.fake.net", "ntp.emea01.fake.net"],
+                "AD": ["APAC.FUN.DOMAIN.com"]
+            },
+            "[00011] Australia": {
+                "ENVS": ["DEV", "UAT", "PRD"],
+                "PATTERNS": ["GENERAL", "USERDATA", "DUMP"],
+                "DNS": ["14.192.0.139", "209.146.104.69", "13.239.88.95"],
+                "LDAP": ["ldap.in01.fake.net", "ldap.in02.fake.net", "ldap.hk01.fake.net", "ldap.hk02.fake.net"],
+                "NTP": ["ntp.apac01.fake.net", "ntp.emea01.fake.net", "ntp.emea01.fake.net"],
+                "AD": ["APAC.FUN.DOMAIN.com"]
+            }
+        }
+    }
+}
