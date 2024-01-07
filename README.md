@@ -1,0 +1,1 @@
+My idea of a menu system to generate a pre-defined selection of options to define what settings go into the configuration of a device.
